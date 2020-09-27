@@ -110,9 +110,21 @@ body {
 }
 
 .skills-list dt {
-  padding-left: 32px;
+  padding-left: 35px;
   background-repeat: no-repeat;
   background-position: left;
+}
+
+.skill-java {
+  background-image: url("img/icon-java.svg");
+}
+
+.skill-typescript {
+  background-image: url("img/icon-typescript.svg");
+}
+
+.skill-javascript {
+  background-image: url("img/icon-javascript.svg");
 }
 
 .skill-html {
